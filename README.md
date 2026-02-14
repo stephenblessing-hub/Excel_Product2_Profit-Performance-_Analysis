@@ -2,7 +2,7 @@
 Sales ,Revenue And Profit Performance  Analysis
 # Excel Data Cleaning & Dashboard Project
 ✨ This project demonstrates how I transformed a raw dataset into a clean, insightful dashboard using Excel.
-# It covers
+# This project covers
 **data cleaning,
 formatting, 
 pivot tables, 
